@@ -1,0 +1,45 @@
+body {
+    margin-top: 0px;
+    background: rgb(78, 150, 102);
+}
+
+header h1{
+    color: white;
+    text-align: center;
+    /* padding: 50px; */
+    /* border: 30px; */
+
+}
+
+header h3 {
+    color: red;
+}
+
+.first_letter {
+    font-size: 50px;
+}
+
+.div_1 {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin: 30px;
+
+}
+
+.feature {
+    background-color: rgb(56, 67, 71);
+}
+.feature h2 {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    font-size: 2em;
+
+}
+.feature img {
+    width: 100%;
+    padding-bottom: 50px;
+}
